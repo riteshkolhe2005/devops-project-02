@@ -68,6 +68,16 @@ The goal is to **automate cloud infrastructure provisioning** in a secure, repea
 
 ---
 
+
+### AWS Proofs
+
+<img width="1919" height="1089" alt="Screenshot 2026-01-11 113009" src="https://github.com/user-attachments/assets/5f3db792-c764-4689-8b0e-4cdf6ad11150" />
+<img width="1919" height="1090" alt="Screenshot 2026-01-11 112958" src="https://github.com/user-attachments/assets/d7c02a7c-8db9-4a75-8572-1886c5b03f7f" />
+<img width="1919" height="1093" alt="Screenshot 2026-01-11 112926" src="https://github.com/user-attachments/assets/5503be42-3b5a-48b8-8d84-df3a7ba6d3e6" />
+<img width="1919" height="1087" alt="Screenshot 2026-01-11 112905" src="https://github.com/user-attachments/assets/209d1980-ea84-4d6c-9d9a-cd99cc22c3fd" />
+
+
+
 ## ▶️ How to Run Locally
 
 ### Prerequisites
@@ -83,13 +93,6 @@ terraform init
 terraform validate
 terraform plan
 terraform apply
-
-### AWS Proofs
-
-<img width="1919" height="1089" alt="Screenshot 2026-01-11 113009" src="https://github.com/user-attachments/assets/5f3db792-c764-4689-8b0e-4cdf6ad11150" />
-<img width="1919" height="1090" alt="Screenshot 2026-01-11 112958" src="https://github.com/user-attachments/assets/d7c02a7c-8db9-4a75-8572-1886c5b03f7f" />
-<img width="1919" height="1093" alt="Screenshot 2026-01-11 112926" src="https://github.com/user-attachments/assets/5503be42-3b5a-48b8-8d84-df3a7ba6d3e6" />
-<img width="1919" height="1087" alt="Screenshot 2026-01-11 112905" src="https://github.com/user-attachments/assets/209d1980-ea84-4d6c-9d9a-cd99cc22c3fd" />
 
 
 
